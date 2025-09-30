@@ -1,0 +1,3 @@
+/home/shyam/projects/zephyrStream/build/CMakeFiles/my_kafka.dir
+/home/shyam/projects/zephyrStream/build/CMakeFiles/edit_cache.dir
+/home/shyam/projects/zephyrStream/build/CMakeFiles/rebuild_cache.dir

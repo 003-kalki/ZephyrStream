@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/my_kafka.dir/src/broker.cpp.o CMakeFiles/my_kafka.dir/src/consumer.cpp.o CMakeFiles/my_kafka.dir/src/main.cpp.o CMakeFiles/my_kafka.dir/src/message.cpp.o CMakeFiles/my_kafka.dir/src/partition.cpp.o CMakeFiles/my_kafka.dir/src/producer.cpp.o CMakeFiles/my_kafka.dir/src/topic.cpp.o -o my_kafka 
